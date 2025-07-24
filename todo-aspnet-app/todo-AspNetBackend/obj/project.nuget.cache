@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VEADZqnAnUA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\G0052052\\OneDrive - Gauteng Provincial Government\\Desktop\\Documents\\WebDev\\todo_projects\\todo-aspnet-app\\todo-AspNetBackend\\AspNetBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\G0052052\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\G0052052\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
